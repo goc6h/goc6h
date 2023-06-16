@@ -1,10 +1,11 @@
+/* thêm font hệ thống */
+body {font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";font-weight: 400;text-transform: none;font-size: 17px;line-height: 1.5 }h1,h2,h3,h4,h5,h6 {font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";}
 body {
 background-color: #000000;
 background-image: url("assets/bg.gif");
 background-repeat: no-repeat;
 background-position: center;
 background-attachment: fixed;
-font-family: 'Open Sans', sans-serif;
 font-size: 15px;
 letter-spacing: 2px;
 }
